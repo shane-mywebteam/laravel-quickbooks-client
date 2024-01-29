@@ -1,20 +1,5 @@
-# SPINEN's Laravel QuickBooks Client
-
-[![Latest Stable Version](https://poser.pugx.org/spinen/laravel-quickbooks-client/v/stable)](https://packagist.org/packages/spinen/laravel-quickbooks-client)
-[![Latest Unstable Version](https://poser.pugx.org/spinen/laravel-quickbooks-client/v/unstable)](https://packagist.org/packages/spinen/laravel-quickbooks-client)
-[![Total Downloads](https://poser.pugx.org/spinen/laravel-quickbooks-client/downloads)](https://packagist.org/packages/spinen/laravel-quickbooks-client)
-[![License](https://poser.pugx.org/spinen/laravel-quickbooks-client/license)](https://packagist.org/packages/spinen/laravel-quickbooks-client)
-
-PHP client wrapping the [QuickBooks PHP SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK).
-
-We solely use [Laravel](https://www.laravel.com) for our applications, so this package is written with Laravel in mind. If there is a request from the community to split this package into 2 parts to allow it to be used outside of Laravel, then we will consider doing that work.
-
-## Build Status
-
-| Branch | Status | Coverage | Code Quality |
-| ------ | :----: | :------: | :----------: |
-| Develop | [![Build Status](https://github.com/spinen/laravel-quickbooks-client/workflows/CI/badge.svg?branch=develop)](https://github.com/spinen/laravel-quickbooks-client/workflows/CI/badge.svg?branch=develop) | [![Code Coverage](https://scrutinizer-ci.com/g/spinen/laravel-quickbooks-client/badges/coverage.png?b=develop)](https://scrutinizer-ci.com/g/spinen/laravel-quickbooks-client/?branch=develop) | [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spinen/laravel-quickbooks-client/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/spinen/laravel-quickbooks-client/?branch=develop) |
-| Master | [![Build Status](https://github.com/spinen/laravel-quickbooks-client/workflows/CI/badge.svg?branch=master)](https://github.com/spinen/laravel-quickbooks-client/workflows/CI/badge.svg?branch=master) | [![Code Coverage](https://scrutinizer-ci.com/g/spinen/laravel-quickbooks-client/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/spinen/laravel-quickbooks-client/?branch=master) | [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spinen/laravel-quickbooks-client/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spinen/laravel-quickbooks-client/?branch=master) |
+# MyWebTeam Quickbooks client
+### forked from SPINEN's Laravel QuickBooks Client
 
 ## Installation
 

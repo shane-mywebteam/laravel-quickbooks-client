@@ -1,6 +1,6 @@
 {
   "name": "spinen/laravel-quickbooks-client",
-  "description": "SPINEN's Laravel Client for QuickBooks.",
+  "description": "MyWebTeam Quickbookks client, forked from SPINEN's Laravel Client for QuickBooks.",
   "keywords": [
     "quickbooks",
     "client",
@@ -9,6 +9,10 @@
   ],
   "license": "MIT",
   "authors": [
+      {
+          "name": "Shane Machon",
+          "email": "shane@mywebteam.cmo.au"
+      },
     {
       "name": "Jimmy Puckett",
       "email": "jimmy.puckett@spinen.com"
@@ -16,17 +20,17 @@
   ],
   "require": {
     "php": "^8.0.2",
-    "illuminate/database": "^9.19",
-    "illuminate/http": "^9.19",
-    "illuminate/routing": "^9.19",
-    "illuminate/support": "^9.19",
-    "nesbot/carbon": "^2.62.1",
-    "quickbooks/v3-php-sdk": "^5.4.6"
+    "illuminate/database": "^10.42",
+    "illuminate/http": "^v10.42",
+    "illuminate/routing": "^10.42",
+    "illuminate/support": "^10.42",
+    "nesbot/carbon": "^2.7",
+    "quickbooks/v3-php-sdk": "^6.1.2"
   },
   "require-dev": {
-    "laravel/pint": "^1.2",
-    "mockery/mockery": "^1.5.1",
-    "phpunit/phpunit": "^9.5.8",
+    "laravel/pint": "^1.13",
+    "mockery/mockery": "^1.6",
+    "phpunit/phpunit": "^9.6",
     "psy/psysh": "^0.11",
     "scrutinizer/ocular": "^1.9"
   },
