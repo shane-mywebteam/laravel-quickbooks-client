@@ -20,18 +20,18 @@
   ],
   "require": {
     "php": "^8.2",
-    "illuminate/database": "^11.41",
-    "illuminate/http": "^11.41",
-    "illuminate/routing": "^11.41",
-    "illuminate/support": "^11.41",
+    "illuminate/database": "^v12.31",
+    "illuminate/http": "^12.31",
+    "illuminate/routing": "^12.31",
+    "illuminate/support": "^12.31",
     "nesbot/carbon": "^3.8",
     "quickbooks/v3-php-sdk": "^6.2"
   },
   "require-dev": {
     "laravel/pint": "^1.20",
     "mockery/mockery": "^1.6",
-    "phpunit/phpunit": "^9.6",
-    "psy/psysh": "^0.11",
+    "phpunit/phpunit": "^11.0",
+    "psy/psysh": "^0.12",
     "scrutinizer/ocular": "^1.9"
   },
   "autoload": {
